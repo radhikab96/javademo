@@ -14,8 +14,6 @@ public class Example {
 		System.out.println(name);
 		System.out.println(letter);
 		
-		//My Project
-		
 		//Arrays
 		
 		int[]arr = new int[3];
